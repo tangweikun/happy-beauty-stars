@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f790060edbdc5db3ed2e587916383fbe",
+    "revision": "0be289322fa2fcb995d559688fb5dafb",
     "url": "/happy-beauty-stars/index.html"
   },
   {
-    "revision": "19543e54fe5463b78ac0",
+    "revision": "5eda5df97840e3bd3ee5",
     "url": "/happy-beauty-stars/static/css/main.7a4f7d6e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happy-beauty-stars/static/js/2.f44810cf.chunk.js"
   },
   {
-    "revision": "19543e54fe5463b78ac0",
-    "url": "/happy-beauty-stars/static/js/main.1e885c7d.chunk.js"
+    "revision": "5eda5df97840e3bd3ee5",
+    "url": "/happy-beauty-stars/static/js/main.56188706.chunk.js"
   },
   {
     "revision": "15251aff4fb494ff348d",

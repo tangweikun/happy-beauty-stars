@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/happy-beauty-stars/precache-manifest.ffff0fd9a079948d26b08ea802f6dcf4.js"
+  "/happy-beauty-stars/precache-manifest.764ea1a1e3aff33940266339ad6736da.js"
 );
 
 self.addEventListener('message', (event) => {
