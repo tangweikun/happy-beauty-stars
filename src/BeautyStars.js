@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Star } from "./Star";
 
-export function BeautyStar(props) {
+export function BeautyStars(props) {
   const { maxStars = 5 } = props;
   const [num, setNum] = useState(-1);
 
