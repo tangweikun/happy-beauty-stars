@@ -3,7 +3,7 @@ import { Star } from "./Star";
 
 export function BeautyStars(props) {
   const { maxStars = 5 } = props;
-  const [num, setNum] = useState(-1);
+  const [num, setNum] = useState(0);
 
   return (
     <div
