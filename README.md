@@ -6,6 +6,12 @@
 
 <img src="./screenshot/gif.gif" alt='' width="300">
 
+## 相关项目
+
+- [Happy Clicker](https://juejin.im/post/5dce16b8f265da0bc53c76b7)
+
+  一个简单的计数器，可以'加一'，'减一'和'重置'
+
 ## 快速开始
 
 1. 克隆仓库
