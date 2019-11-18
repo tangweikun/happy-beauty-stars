@@ -2,6 +2,8 @@
 
 >     一个简单的评分组件
 
+> 难易程度: ⭐
+
 [在线预览](https://tangweikun.github.io/happy-beauty-stars)
 
 <img src="./screenshot/gif.gif" alt='' width="300">
